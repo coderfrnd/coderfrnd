@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **asset managEment tech**
+- 🔭 I’m currently working on **asset management tech**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
