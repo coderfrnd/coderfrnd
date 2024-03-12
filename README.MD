@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ** React.js and Node.js**
+- 🔭 I’m currently working on ** Next.js and Node.js**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -15,7 +15,7 @@
   
 
 
-- 📫 How to reach me **smartshadow39@gmail.com**
+- 📫 How to reach me **abhishek20ei02@gmail.com**
 
 - ⚡ Fun fact **I play games.**
 
